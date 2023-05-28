@@ -1,0 +1,2 @@
+# TaslakProje
+staj proje taslağı
